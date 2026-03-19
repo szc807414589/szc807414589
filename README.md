@@ -1,82 +1,103 @@
-<h1 align="center">🧠 AI Agent Builder</h1>
+<!-- HERO -->
+
+<h1 align="center">
+⚡ Building Autonomous AI Systems
+</h1>
 
 <p align="center">
-Building the future of autonomous software systems
+AI Agent Founder · System Builder · Codeman Maintainer
 </p>
 
 <p align="center">
-Maintainer of <b>Codeman</b> · Exploring Multi-Agent · DevOps + AI
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Architecture;Multi-Agent+Workflow;AI-native+DevOps;Autonomous+Debugging;Enterprise+AI+Platform&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 Flagship Project
+## 🧠 About Me
+
+I focus on designing **AI-native software systems**.
+
+- Building autonomous coding agents  
+- Exploring multi-agent orchestration  
+- Creating enterprise AI infrastructure  
+- Turning LLM capability into real production workflow  
+
+---
+
+## 🚀 Flagship Product
 
 ### 🔥 Codeman — AI Coding Agent Framework
 
-> Build autonomous coding workflows with intelligent agents.
+> A framework for building autonomous coding workflows.
 
-- Multi-agent collaboration  
-- DevOps automation  
-- Plugin ecosystem  
-- Enterprise-ready architecture  
+- Multi-Agent Collaboration  
+- Tool Routing & Context Isolation  
+- DevOps Integration  
+- Plugin Ecosystem  
+- Enterprise Architecture  
 
-⭐ If you are building AI Agents — check it out.
-
----
-
-## 🧩 AI Focus
-
-- Agent Architecture  
-- Tool Calling Systems  
-- Long Context Workflow  
-- AI-native DevOps  
-- Autonomous Debugging  
-- Enterprise AI Platform  
+⭐ Star if you believe AI Agents will reshape software engineering.
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Tech Territory
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,react,java,python,linux,docker,kubernetes,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,java,python,linux,docker,kubernetes,git,redis,mysql" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Engineering Signal
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=szc807414589&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=szc807414589&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=szc807414589&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szc807414589&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szc807414589&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Current Mission
+## 🧩 Current Build
 
-Building an **Enterprise-grade AI Agent System**
+Designing an **Enterprise AI Agent System**
 
 - Skill Layer  
 - Agent Layer  
-- Context Isolation  
-- Dynamic Tool Routing  
+- Memory & Context Engine  
 - Observability for AI  
+- Deployment Automation  
+- AI + DevOps Fusion  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🌍 Vision
 
-AI Agents will replace traditional software workflows.  
-I’m building tools to accelerate that future.
+Software will evolve from:
+
+> Human-written → AI-assisted → AI-autonomous  
+
+I’m building tools for the last stage.
 
 ---
 
-## 🤝 Connect
+## 🤝 Reach Me
 
 - Twitter / X  
 - Telegram  
-- Blog (Coming Soon)
+- Blog (coming soon)
